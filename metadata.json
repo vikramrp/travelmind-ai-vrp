@@ -1,0 +1,6 @@
+{
+  "name": "TravelMind AI",
+  "description": "An AI-powered travel assistant that creates personalized itineraries, predicts budgets, and provides cultural insights for any destination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
